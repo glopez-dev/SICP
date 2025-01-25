@@ -13,7 +13,12 @@ This repository is meant to share my learning of SICP, useful ressources that I 
 
 I'll try to play my part to the fabulous free learning brought by entities such as the MIT and UC Berkley; Hoping you'll enjoy it.
 
+## Awesome SICP list
+- [SICP in Guile & Emacs Lisp](https://github.com/zv/SICP-guile?tab=readme-ov-file)
+
+
 ---
+
 Gabriel LOPEZ
 
 01/25/2025
