@@ -3,7 +3,7 @@
 <img src="./img/sicp_cover.png" alt="SICP Cover">
 
 ## Background
-Going through the awesome [Teacch Yourself Computer Science](https://teachyourselfcs.com/) website, I found out about the [SICP](https://sarabander.github.io/sicp/html/) book.
+Going through the awesome [Teach Yourself Computer Science](https://teachyourselfcs.com/) website, I found out about the [SICP](https://sarabander.github.io/sicp/html/) book.
 
 I had already seen it while browsing about functionnal programming but this site definitively convinced me to give it a try.
 
