@@ -3,7 +3,7 @@ FROM ubuntu:22.04
 RUN apt-get update && apt-get install -y racket ca-certificates libssl-dev \
     && rm -rf /var/lib/apt/lists/*
 
-# #lang sicp (SICP) et #lang simply-scheme (CS61AS), installés pour tous les utilisateurs
+# #lang sicp (SICP) and #lang simply-scheme (CS61AS), installed for all users
 RUN raco pkg install --auto --batch --scope installation --no-docs sicp simply-scheme
 
 RUN useradd -m schemeuser
